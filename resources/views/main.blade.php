@@ -57,7 +57,7 @@ https://templatemo.com/tm-540-lava-landing-page
                         <ul class="nav">
                             <li class="scroll-to-section"><a href="#welcome" class="menu-item">Home</a></li>
                             <li class="scroll-to-section"><a href="#about" class="menu-item">About</a></li>
-                            <li class="scroll-to-section"><a href="#testimonials" class="menu-item">Testimonials</a>
+                            <li class="scroll-to-section"><a href="#testimonials" class="menu-item">Keynote Speaker</a>
                             </li>
                             <!--
                             <li class="submenu">
