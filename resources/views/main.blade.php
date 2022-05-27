@@ -173,7 +173,7 @@ https://templatemo.com/tm-540-lava-landing-page
                     <p><em>ALL PRESENTED AND SELECTED MANUSCRIPT WILL BE PUBLISHED IN:</em> </p>
                     <table class="table table-striped">
                     <tr>
-                        <td>International Journal (Scopus/WoS)</td>
+                        <td><a href="">International Journal (Scopus/WoS)</a></td>
                         
                     </tr>
                     <tr>
@@ -194,27 +194,27 @@ https://templatemo.com/tm-540-lava-landing-page
                             <img src="assets/images/about-icon-01.png" alt="">
                             <div class="text">
                                 <h4>Scopus</h4>
-                                <p>Please do not redistribute this template ZIP file for a download purpose. You may <a
-                                rel="nofollow" href="https://templatemo.com/contact" target="_parent">contact</a> us for
-                            additional licensing of our template or to get a PSD file.</p>
+                                <p>Scopus is <strong> largest abstract and citation database of 
+                                    peer-reviewed literature</strong> – scientific journals, books and
+                                    conference proceedings.</p>
                             </div>
                         </li>
                         <li data-scroll-reveal="enter right move 30px over 0.6s after 0.5s">
                             <img src="assets/images/about-icon-02.png" alt="">
                             <div class="text">
                                 <h4>Web of Science</h4>
-                                <p>You can <a rel="nofollow"
-                                        href="https://templatemo.com/tm-540-lava-landing-page">download Lava
-                                        Template</a> from our website. Duis viverra, ipsum et scelerisque placerat, orci
-                                    magna consequat ligula.</p>
+                                <p> is a database of bibliographic citations of multidisciplinary 
+                                    areas that covers the various journals of medical, scientific, 
+                                    and social sciences.</p>
                             </div>
                         </li>
                         <li data-scroll-reveal="enter right move 30px over 0.6s after 0.6s">
                             <img src="assets/images/about-icon-03.png" alt="">
                             <div class="text">
-                                <h4>Sinta Kemenristek</h4>
-                                <p>Phasellus in imperdiet felis, eget vestibulum nulla. Aliquam nec dui nec augue
-                                    maximus porta. Curabitur tristique lacus.</p>
+                                <h4>Science and Technology Index</h4>
+                                <p>Web-based research information system offering fast access,
+                                    easy and comprehensive to measure the performance of researchers,
+                                     and journals in Indonesia.</p>
                             </div>
                         </li>
                     </ul>
@@ -276,6 +276,7 @@ https://templatemo.com/tm-540-lava-landing-page
                                 <button type="button" class="btn btn-light">Profil</button></a>
                             </div>
                         </div>
+                        <!--
                         <div class="item service-item">
                             <div class="author">
                                 <i><img src="assets/images/testimonial-author-1.png" alt="Fourth Author"></i>
@@ -292,6 +293,7 @@ https://templatemo.com/tm-540-lava-landing-page
                                     congue a fringilla sed, maximus et urna."</p>
                                 <span>New Villager</span>
                             </div>
+                        -->
                         </div>
                     </div>
                 </div>
@@ -342,11 +344,10 @@ https://templatemo.com/tm-540-lava-landing-page
                     <!-- ***** Contact Form End ***** -->
                     <div class="right-content col-lg-6 col-md-12 col-sm-12">
                         <h2>More About <em>InCoSES</em></h2>
-                        <p>Phasellus dapibus urna vel lacus accumsan, iaculis eleifend leo auctor. Duis at finibus odio.
-                            Vivamus ut pharetra arcu, in porta metus. Suspendisse blandit pulvinar ligula ut elementum.
-                            <br><br>If you need this contact form to send email to your inbox, you may follow our <a
-                                rel="nofollow" href="https://templatemo.com/contact" target="_parent">contact</a> page
-                            for more detail.</p>
+                        <p>We invite researchers from all over the world to join International  Conferece of Science, Economics, and Social Studies.
+                            <br><br>
+                            If you need information, please contact us via the available media channels or the contact form on this website.
+                        </p>
                         <ul class="social">
                             <li><a href="#"><i class="fa fa-facebook"></i></a></li>
                             <li><a href="#"><i class="fa fa-twitter"></i></a></li>
@@ -362,7 +363,7 @@ https://templatemo.com/tm-540-lava-landing-page
                     <div class="sub-footer">
                         <p>Copyright &copy; 2022 InCoSES
 
-                        | Designed by <a rel="nofollow" href="https://templatemo.com">Novailul</a></p>
+                        | Designed by <a rel="nofollow" href="/">Novailul</a></p>
                     </div>
                 </div>
             </div>
